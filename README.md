@@ -7,6 +7,7 @@ library(devtools)
 install_github("nik01010/dashboardthemes")
 
 Should any problem persist when running the app, you can see it running through the shinyapps.io server here:
+https://alex13391.shinyapps.io/myfirstapp/
 
 Alternatively, feel free to contact me at alebalher@gmail.com
 
