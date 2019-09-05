@@ -6,7 +6,7 @@ library(shinyBS)
 library(ISLR)
 library(MASS)
 library(plotly)
-T1=p("The aim of this app is to provide a friendly introduction to those who may be interested
+T1=p("THIS IS THE FIRST MODIFICATION FROM MASTER BRANCH.The aim of this app is to provide a friendly introduction to those who may be interested
      in joining the data science career.",hr(),"Throughout this page you will find the most common
      and widely used Machine Learning techniques such as the use of linear models to predict
      the behaviour of economic growth, as well as using Naive Bayes algorithm to classify 
